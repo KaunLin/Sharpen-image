@@ -1,0 +1,51 @@
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\WindowsFormsApplication3.exe.config
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\WindowsFormsApplication3.exe
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\WindowsFormsApplication3.pdb
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.GPU.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.ML.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.OCR.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.OpenCL.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.Stitching.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.UI.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.VideoStab.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.Util.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\ZedGraph.dll
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.ML.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.OCR.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.OpenCL.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.Stitching.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.UI.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.VideoStab.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.Util.xml
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.Form1.resources
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.csproj.CopyComplete
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.exe
+C:\image process\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.pdb
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\WindowsFormsApplication3.exe.config
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\WindowsFormsApplication3.exe
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\WindowsFormsApplication3.pdb
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\ZedGraph.dll
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.GPU.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.ML.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.OCR.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.OpenCL.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.Stitching.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.UI.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.CV.VideoStab.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\x64\Debug\Emgu.Util.xml
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.csproj.CopyComplete
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.exe
+C:\Users\qscf6\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x64\Debug\WindowsFormsApplication3.pdb
